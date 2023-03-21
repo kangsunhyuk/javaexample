@@ -13,6 +13,7 @@ public class SwitchCase {
             default : medalColor = "A";
         }
         System.out.println(ranking + "등 메달의 색깔은" + medalColor + "입니다.");
+
     }
     public static void main(String[] args) {
         int ranking = 1;
